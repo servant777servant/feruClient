@@ -4960,3 +4960,38 @@ You must not let any exception whatsoever propagate through Qt code.
 [ 2026-01-07 17:20:23,234 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
 [ 2026-01-07 17:20:23,235 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
 [ 2026-01-07 17:20:23,278 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:27:42,729 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:27:42,763 ] Disconnected from gameserver
+[ 2026-01-07 17:27:55,999 ] Using spritesheet cache size of 910
+[ 2026-01-07 17:27:56,703 ] Asset loading complete
+[ 2026-01-07 17:27:57,086 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1ab052355a0), parent's thread is QThread(0x1ab7df25c20), current thread is QSGRenderThread(0x1ab054dcbb0)
+[ 2026-01-07 17:28:17,168 ] BattlEye: "Initialized (v1.249)"
+[ 2026-01-07 17:28:17,168 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2026-01-07 17:28:17,168 ] BattlEye: "Restarting client is necessary, update required"
+[ 2026-01-07 17:28:17,168 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-01-07 17:28:17,168 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-01-07 17:28:17,213 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:28:17,216 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:28:20,586 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:28:41,770 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:28:41,804 ] Disconnected from gameserver
+[ 2026-01-07 17:28:45,481 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:28:45,482 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:28:45,522 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:37:38,815 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2026-01-07 17:37:38,816 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:37:42,025 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:38:15,417 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2026-01-07 17:38:15,417 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2026-01-07 17:38:24,199 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2026-01-07 17:38:24,199 ] qrc:/qt/qml/qmlcomponents/qml/StoreMainPage.qml:75:9: QML QQuickImage: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2026-01-07 17:38:27,780 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:38:27,780 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-01-07 17:38:27,780 ] QQuickPixmap: connectFinished() called when not loading.
