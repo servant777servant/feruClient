@@ -1,0 +1,23 @@
+# Runtime logs
+log/
+logs/
+*.log
+
+# Minimap images / cache
+minimap/
+minimaps/
+minimapscreenshots/
+assets/minimap*/
+assets/minimaps*/
+
+# Screenshots
+screenshots/
+screenshot/
+*.png
+*.jpg
+
+# Sounds generated / downloaded
+sounds/
+audio/
+*.wav
+*.mp3
