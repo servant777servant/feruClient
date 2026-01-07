@@ -1,23 +1,17 @@
-# Runtime logs
+# === Runtime / generated ===
 log/
 logs/
-*.log
-
-# Minimap images / cache
+cache/
+crashdump/
 minimap/
-minimaps/
-minimapscreenshots/
-assets/minimap*/
-assets/minimaps*/
-
-# Screenshots
 screenshots/
-screenshot/
-*.png
-*.jpg
-
-# Sounds generated / downloaded
 sounds/
-audio/
-*.wav
-*.mp3
+
+# === Common noise ===
+*.log
+*.dmp
+*.tmp
+
+# === OS ===
+.DS_Store
+Thumbs.db
