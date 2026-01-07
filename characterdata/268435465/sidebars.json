@@ -54,10 +54,6 @@
         "0": {
             "contentHeight": 158,
             "contentMaximized": true
-        },
-        "1": {
-            "contentHeight": 145,
-            "contentMaximized": true
         }
     },
     "damageInputAnalyserWidgetOptions": {
@@ -157,10 +153,6 @@
                 },
                 {
                     "type": "questTracker"
-                },
-                {
-                    "instance": 1,
-                    "type": "container"
                 },
                 {
                     "type": "analyticsSelector"

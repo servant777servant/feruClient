@@ -4875,3 +4875,88 @@ You must not let any exception whatsoever propagate through Qt code.
 [ 2026-01-07 14:21:09,132 ] Retrying to obtain clipboard.
 [ 2026-01-07 14:21:23,137 ] Retrying to obtain clipboard.
 [ 2026-01-07 14:24:05,348 ] Retrying to obtain clipboard.
+[ 2026-01-07 15:34:11,827 ] Using spritesheet cache size of 910
+[ 2026-01-07 15:34:15,466 ] Asset loading complete
+[ 2026-01-07 15:34:15,909 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x26f6c510d20), parent's thread is QThread(0x26f6a1da160), current thread is QSGRenderThread(0x26f00974470)
+[ 2026-01-07 17:01:05,257 ] Using spritesheet cache size of 910
+[ 2026-01-07 17:01:08,728 ] Asset loading complete
+[ 2026-01-07 17:01:09,231 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x14807089060), parent's thread is QThread(0x1487f4a82b0), current thread is QSGRenderThread(0x14806fc7650)
+[ 2026-01-07 17:01:35,926 ] BattlEye: "Initialized (v1.249)"
+[ 2026-01-07 17:01:35,926 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2026-01-07 17:01:35,926 ] BattlEye: "Restarting client is necessary, update required"
+[ 2026-01-07 17:01:35,926 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-01-07 17:01:35,926 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-01-07 17:01:35,979 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:01:35,981 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:01:36,024 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:05:56,729 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:05:56,764 ] Disconnected from gameserver
+[ 2026-01-07 17:06:14,589 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:06:14,591 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:06:19,079 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-01-07 17:06:20,079 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:06:24,578 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-01-07 17:06:24,582 ] Disconnected from gameserver
+[ 2026-01-07 17:06:25,715 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:06:25,717 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:06:25,761 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:06:25,879 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:06:25,881 ] Disconnected from gameserver
+[ 2026-01-07 17:07:05,651 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:07:05,653 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:07:05,696 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:07:05,878 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:07:05,880 ] Disconnected from gameserver
+[ 2026-01-07 17:07:08,383 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:07:15,927 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:07:15,930 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:07:15,973 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:07:16,128 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:07:16,130 ] Disconnected from gameserver
+[ 2026-01-07 17:08:42,371 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:08:43,514 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:08:43,515 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:08:43,556 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:08:43,679 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:08:43,680 ] Disconnected from gameserver
+[ 2026-01-07 17:10:14,732 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:10:15,457 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:10:15,458 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:10:15,506 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:12:28,529 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:12:28,561 ] Disconnected from gameserver
+[ 2026-01-07 17:12:28,584 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:12:30,811 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:12:30,813 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:12:30,857 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:18:24,129 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:18:24,164 ] Disconnected from gameserver
+[ 2026-01-07 17:19:06,513 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:19:07,760 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:19:07,762 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:07,805 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:11,229 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:19:11,263 ] Disconnected from gameserver
+[ 2026-01-07 17:19:14,961 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:19:15,496 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:19:15,498 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:19,979 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-01-07 17:19:20,978 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:21,197 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:19:22,669 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:19:22,671 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:27,128 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-01-07 17:19:28,128 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:32,629 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-01-07 17:19:32,632 ] Disconnected from gameserver
+[ 2026-01-07 17:19:33,764 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:19:33,766 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:19:36,585 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:20:18,628 ] Connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-01-07 17:20:18,663 ] Disconnected from gameserver
+[ 2026-01-07 17:20:22,677 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("https://feruots.eu/login.php") ) due to too many retries.
+[ 2026-01-07 17:20:23,234 ] Request connection to gameserver  "tcp://46.224.177.96:7172"  (unprotected:  "tcp://46.224.177.96:7172" )  requested (Charakter "Don Juan" )
+[ 2026-01-07 17:20:23,235 ] Request connection to gameserver  "tcp://46.224.177.96:7172" "Crystal"
+[ 2026-01-07 17:20:23,278 ] Connected to gameserver  "tcp://46.224.177.96:7172" "Crystal"

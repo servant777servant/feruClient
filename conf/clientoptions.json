@@ -1,6 +1,6 @@
 {
     "chatOptions": {
-        "chatModeOn": true,
+        "chatModeOn": false,
         "lootChannelOpen": true,
         "openChannels": [
             7,
@@ -14,7 +14,7 @@
         "clientWindowIsMaximized": true,
         "clientWindowPositionX": 450,
         "clientWindowPositionY": 195,
-        "clientWindowScreenName": "LG ULTRAGEAR",
+        "clientWindowScreenName": "2590G4",
         "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
@@ -194,6 +194,14 @@
                             "actionButton": 16,
                             "actionsetting": {
                                 "chatText": "!online",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "/closeserver shutdown",
                                 "sendAutomatically": true
                             }
                         },
@@ -1035,7 +1043,7 @@
         "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "adam1998kk@gmail.com",
+        "loginEmailAddress": "alvesik20@gmail.com",
         "lootSchemeIndex": 0,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": false,
