@@ -1,17 +1,11 @@
-# === Runtime / generated ===
-log/
-logs/
-cache/
-crashdump/
-minimap/
-screenshots/
-sounds/
+# ignoruj wszystko
+*
 
-# === Common noise ===
-*.log
-*.dmp
-*.tmp
+# ale NIE ignoruj katalogu assets
+!assets/
+!assets/**
 
-# === OS ===
-.DS_Store
-Thumbs.db
+# NIE ignoruj plików potrzebnych do działania gita
+!.gitignore
+!.gitattributes
+!README
