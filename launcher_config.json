@@ -1,0 +1,14 @@
+{
+  "server_name": "Feru OT",
+  "current_version": "2.0.0",
+  "description": "Official Feru Client",
+  "github_username": "servant777servant",
+  "github_repository": "feruClient",
+  "client_zip_filename": "tibia-client.zip",
+
+  "enable_auto_update": true,
+  "launcher_github_username": "servant777servant",
+  "launcher_github_repository": "feruLauncher",
+
+  "protected_folders": ["minimap", "conf", "characterdata", "screenshots"]
+}
