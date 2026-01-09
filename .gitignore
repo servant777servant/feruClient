@@ -5,6 +5,9 @@
 !assets/
 !assets/**
 
+# NIE ignoruj plików zip
+!*.zip
+
 # NIE ignoruj plików potrzebnych do działania gita
 !.gitignore
 !.gitattributes
